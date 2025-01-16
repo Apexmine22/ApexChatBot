@@ -11,7 +11,7 @@ from sqlalchemy.orm import sessionmaker
 
 # INIT
 bot = Bot(
-    token="7651589086:AAE9qK4e2hli4U3b8CBIBTPkxW8FGko8TCw",
+    token="",
     default=DefaultBotProperties(
         parse_mode=ParseMode.HTML
     )
